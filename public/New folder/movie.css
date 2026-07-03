@@ -11,10 +11,23 @@ h1 {
   border: 2px solid white;
   font-family: "Montenegrin Gothic One", serif;
 }
-h2 {
+#h2 {
   background-color: #95ccdd;
   display: inline-block;
   padding: 10px;
   border: 2px solid white;
   border-radius: 8px;
+}
+h3 {
+  background-color: #ffc85c;
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 9px;
+}
+img {
+  max-width: 700px;
+  width: 100%;
+  display: block;
+  margin: 15px auto;
+  margin-top: 20px;
 }
