@@ -1,0 +1,21 @@
+body {
+  color: black;
+  background-color: rgb(34, 40, 49);
+}
+h1 {
+  background-color: rgb(253, 138, 107);
+  padding: 10px;
+  text-align: center;
+  border-radius: 8px;
+  border: 3px solid black;
+}
+h3 {
+  background-color: rgb(143, 221, 223);
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid black;
+}
+
+#h3 {
+  width: fit-content;
+}
