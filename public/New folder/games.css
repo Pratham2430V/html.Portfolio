@@ -13,7 +13,13 @@ h1 {
   text-transform: uppercase;
 }
 .h2 {
+  background-color: #ff9494;
+  padding: 10px;
+  margin: 2px solid white;
+  display: block;
+  border-radius: 8px;
   font-family: "Marcellus SC", serif;
+  text-align: center;
 }
 p {
   font-family: "Marcellus SC", serif;
