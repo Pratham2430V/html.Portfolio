@@ -33,3 +33,34 @@ img {
   margin: 20px auto;
   border: 5px solid white;
 }
+@media (min-width: 319px) and (max-width: 480px) {
+  body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 1200px) {
+  body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+  }
+}
+
+@media (min-width: 1201px) and (max-width: 1600px) {
+  body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+  }
+}
+
+@media (min-width: 1601px) {
+  body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+  }
+}
